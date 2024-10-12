@@ -1,0 +1,15 @@
+/* Stylesheet for Odin-recipes page */
+
+body {
+    font-family: Georgia, Garamond, serif;
+    font-size: small;
+    color: darkslategray;
+}
+
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+    color: coral;
+    font-weight: bolder;
+}
+
