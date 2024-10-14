@@ -1,15 +1,23 @@
 /* Stylesheet for Odin-recipes page */
 
 body {
-    font-family: Georgia, Garamond, serif;
-    font-size: small;
+    font-family: 'Trebuchet MS', Helvetica, sans-serif;
+    font-size: medium;
     color: darkslategray;
+    line-height: 1.75;
+    letter-spacing: 0.3px;
 }
 
-h1 {
+
+header, h1, h2, h3, h4, h5, h6, a {
     font-family: 'Courier New', Courier, monospace;
-    font-size: large;
     color: coral;
-    font-weight: bolder;
+    font-weight: 900;
+    letter-spacing: normal;
 }
 
+
+
+a {
+    color: indianred;
+}
